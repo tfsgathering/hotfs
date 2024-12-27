@@ -4,7 +4,7 @@ Copyright (c) 2024 **TFS Gathering**
 
 This is the repository for HANDBOOK of Turboprop Flight Simulator [1]. This project has been initiated by **TFS Gathering [2],** a Discord server ran for and by the players of TFS.
 
-This is a work in progress. **TFS Gathering** owns all content in `TFS_handbook.pdf`.
+This is a work in progress. **TFS Gathering** owns all content in `hotfs.pdf`.
 
 ---
 
